@@ -1,6 +1,6 @@
 name: Mon Premier Workflow
 on: workflow_dispatch
-jobs
+jobs:
   premierJob:
     runs-on: ubuntu-latest
     steps:
